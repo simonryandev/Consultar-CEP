@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(to bottom, #add8e6, #d3d3d3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container-cep {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.container-cep h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+.container-cep input {
+  margin-bottom: 15px;
+}
+
+#resultado {
+  margin-top: 20px;
+}
